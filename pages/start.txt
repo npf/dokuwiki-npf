@@ -1,3 +1,12 @@
 Hello World !
 
+===== Title =====
 [[Another page]]
+
+=== section 1 ===
+
+bla bla bla
+
+=== section 2 ===
+
+yop yop
