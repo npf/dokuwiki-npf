@@ -9,3 +9,5 @@ test
 test
 
 and there !
+
+{{:wiki:20130113_001.jpg?nolink&200|}}
