@@ -10,4 +10,6 @@ test
 
 and there !
 
+{{:wiki:dokuwiki-128.png?nolink&200|}}
+
 {{:wiki:20130113_001.jpg?nolink&200|}}
